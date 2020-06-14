@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prison Life Development Diary</title>
+    <link>https://rationalgames.github.io/prisonlife-diary/</link>
+    <description>Recent content on Prison Life Development Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Jun 2020 14:42:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://rationalgames.github.io/prisonlife-diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020 06 14 Hello</title>
+      <link>https://rationalgames.github.io/prisonlife-diary/posts/2020-06-14-hello/</link>
+      <pubDate>Sun, 14 Jun 2020 14:42:01 +0200</pubDate>
+      
+      <guid>https://rationalgames.github.io/prisonlife-diary/posts/2020-06-14-hello/</guid>
+      <description>Prison Life development diaries inauguration Hello!, this is the first dev diary post, and I think that a good start could be introducing Prison Life to you!
+Prison Life is the title of an upcoming game made by a single person right now that simulates a life inside a prison.
+It can be categorized as a Multiplayer Role Playing game with turn based fighting mechanics.
+I do not want to store personal information of the real people playing so i might come up with some kind of anonymous player creation with some limits to avoid abuses.</description>
+    </item>
+    
+  </channel>
+</rss>
