@@ -9,10 +9,11 @@ See: https://rationalgames.github.io/prisonlife-diary/
 
 [Download Hugo](https://github.com/gohugoio/hugo/releases/download/v0.72.0/hugo_0.72.0_Linux-64bit.deb)
 
-Theme used: https://themes.gohugo.io/hugo-coder/
+Theme used: https://github.com/colorchestra/smol
+with modified templates
 
 ```
-git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+git submodule add https://github.com/colorchestra/smol themes/smol
 ```
 
 ## Development
