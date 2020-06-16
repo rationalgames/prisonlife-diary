@@ -1,0 +1,17 @@
+{{ define "main" }}
+	<main>
+		<article>
+			<h1>{{ .Title }}</h1>
+			<b><time>{{ .Date.Format "02.01.2006 15:04" }}</time></b>
+		       {{ range .Params.tags }}
+		           <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        	       {{ end }}
+
+			<div>
+				{{ .Content }}
+				<strong>The Warden</strong>
+			</div>
+		</article>
+	</main>
+{{ partial "sidebar.html" . }}
+{{ end }}
