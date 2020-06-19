@@ -2,7 +2,6 @@
 title = "2020 06 16 Features Overview"
 date = 2020-06-16T20:03:45+02:00
 +++
-# Features overview
 
 Good afternoon criminals.
 

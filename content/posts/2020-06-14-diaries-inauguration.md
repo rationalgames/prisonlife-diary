@@ -3,8 +3,6 @@ title = "2020 06 14 Hello"
 date = 2020-06-14T14:42:01+02:00
 +++
 
-# Prison Life development diaries inauguration
-
 Good day! time to wake up!
 
 This is the first dev diary post, and I think that a good start could be introducing Prison Life to you!
