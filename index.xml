@@ -5,10 +5,22 @@
     <link>https://rationalgames.github.io/prisonlife-diary/</link>
     <description>Recent content on Prison Life Development Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 21:14:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 19:51:08 +0200</lastBuildDate>
     
 	<atom:link href="https://rationalgames.github.io/prisonlife-diary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 06 20 Alpha Access</title>
+      <link>https://rationalgames.github.io/prisonlife-diary/posts/2020-06-20-alpha-access/</link>
+      <pubDate>Sat, 20 Jun 2020 19:51:08 +0200</pubDate>
+      
+      <guid>https://rationalgames.github.io/prisonlife-diary/posts/2020-06-20-alpha-access/</guid>
+      <description>In order to try out the alpha release of the API:
+Create your user You can use the Signup POSTMAN request, or manually with curl&amp;hellip;
+curl --location --request POST &#39;https://static.133.34.69.159.clients.your-server.de:8443/user/&amp;lt;your-user-here&amp;gt;/&amp;lt;your-password-here&amp;gt;&#39; This call will give you back this response
+{ &amp;quot;data&amp;quot;: { &amp;quot;type&amp;quot;: &amp;quot;user&amp;quot;, &amp;quot;id&amp;quot;: &amp;quot;test&amp;quot;, &amp;quot;attributes&amp;quot;: { &amp;quot;apiKey&amp;quot;: &amp;quot;fc246829719f916c4587e55cc6e520fb7e6ed517&amp;quot;, &amp;quot;createdAt&amp;quot;: &amp;quot;Sat, 20 Jun 2020 17:57:11 +0000&amp;quot; }, &amp;quot;meta&amp;quot;: { &amp;quot;warnings&amp;quot;: [ &amp;quot;DO NOT LOOSE YOUR PASSWORD: If you forget your user ID or your password you will not be able to use it anymore.</description>
+    </item>
     
     <item>
       <title>2020 06 19 Alpha Release</title>
