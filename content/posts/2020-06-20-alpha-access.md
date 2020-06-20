@@ -58,8 +58,8 @@ Under edit section, make sure to configure
 
 ### Authorization
 * API key: 
- * Key = PrisonLifeKey
- * Value = <The apiKey field returned from signup CALL> 
+    * Key = PrisonLifeKey
+    * Value = YourAPIKey 
 
 ### Variables
 * host: https://static.133.34.69.159.clients.your-server.de:8443
